@@ -139,5 +139,17 @@ La clase nos muestra a Marcela, quien se siente agobiada por la cantidad de tare
 </ol>
 
 <p>Si puedes responder afirmativamente a estas preguntas, ¡estás en el camino correcto! Recuerda que el proceso de cambio es gradual, así que no te desanimes si no ves resultados inmediatos. Lo importante es que estés consciente de tus hábitos y que te esfuerces por mejorar día a día.</p>
+<ol>
 
+<li>La creencia es el estado psicológico en el que un individuo adopta y mantiene una proposición o premisa para la verdad, o incluso, una opinión o convicción formada.
+No necesitamos más disciplina de la que ya tenemos. Solo necesitamos direccionarla y administrarla un poco mejor.</li>
+<li>El truco para el éxito es elegir el hábito correcto y reunir suficiente disciplina para establecerlo.</li>
+<li>Darle a cada hábito el tiempo suficiente.</li>
+<li>Los esfuerzos cognitivos (nivel de uso de recursos psicológicos como recuerdos, atención, percepción, representación del conocimiento, razonamiento y creatividad en la resolución de problemas), como aprender a usar la última actualización tecnológica, requieren atención activa a un costo de energía.</li>
+<li>Reflexionar sobre tu día.</li>
+<li>Tomar decisiones basadas en lo que es bueno para ti.</li>
+<li>Pensar en mejores formas de hacer tus tareas.</li>
+<li>Dedicar parte de tu tiempo a cuidarte.</li>
+<li>Optimizar la rutina para tener más tiempo libre.</li>
+</ol>
 
