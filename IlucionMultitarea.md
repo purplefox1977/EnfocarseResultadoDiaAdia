@@ -1,7 +1,11 @@
 # EnfocarseResultadoDíaAdía
  <h1>El enemigo invisible</h1>
 <p>La importancia del enfoque para lograr nuestros objetivos. La idea principal es que, al intentar hacer muchas cosas a la vez, podemos terminar sin lograr nada.</p>
-img cuidado
+
+![cuidado](https://github.com/user-attachments/assets/b90902d7-0ace-4421-8374-ae12c3016c66)
+
+
+
 <ol type='A'>
 
 <li>La clase nos presentó a Marcela, quien, al mudarse a una nueva ciudad, se sintió abrumada por todas las tareas que tenía que hacer. Ella intentó usar listas para organizarse, pero se dio cuenta de que no funcionaban porque eran demasiado largas y no estaban enfocadas en lo más importante.</li>
@@ -9,7 +13,10 @@ img cuidado
 <li>Al final de la clase, aprendimos a clasificar nuestras tareas en "cosas que puedo hacer" y "cosas que debo hacer", para poder priorizar y enfocarnos en lo que es más importante.</li>
 </ol>
 
-img listas
+![listas](https://github.com/user-attachments/assets/6eb9deaf-77ee-4714-a9da-e5628135eb87)
+
+
+
 
 <ol type='I'>
 <li>¿Estoy creando listas de éxito o listas de tareas?
@@ -30,7 +37,8 @@ Pregunta: ¿Estoy identificando las pocas cosas que me van a dar el 80% de los r
 Ejemplo: Si quieres mejorar tu inglés, ¿estás enfocándote en las habilidades más importantes, como la comprensión lectora y la conversación?</li>
 </ol>
 
-lisdirectas
+![listasDirectas](https://github.com/user-attachments/assets/0ea6d8ae-af2c-4ea6-9579-a7a3341ae0db)
+
 
 <h1> Enfoque</h1>
 <p>La importancia del enfoque en el trabajo.</p>
