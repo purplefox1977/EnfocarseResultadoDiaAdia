@@ -43,6 +43,12 @@ Ejemplo: Si quieres mejorar tu inglés, ¿estás enfocándote en las habilidades
 <h1> Enfoque</h1>
 <p>La importancia del enfoque en el trabajo.</p>
 
+![seSimple](https://github.com/user-attachments/assets/2c9958a3-df57-4015-b2ea-65e7f01d5b32)
+
+
+![importante](https://github.com/user-attachments/assets/c544c98e-3d6b-46c6-bd28-c3fc91add3b4)
+
+
 <ol type='A'>
 
 <li>Es mejor concentrarse en pocas tareas importantes que intentar hacer muchas cosas a la vez.</li>
@@ -50,6 +56,7 @@ Ejemplo: Si quieres mejorar tu inglés, ¿estás enfocándote en las habilidades
 <li>También aprendimos sobre la importancia de aprender a decir "no" para evitar distracciones y mantener el enfoque en nuestras tareas. La instructora nos explicó que negociar con las personas que nos interrumpen puede ayudarnos a mantener nuestra productividad.</li>
 </ol>
 
+![enfoque](https://github.com/user-attachments/assets/60d58181-39d0-49b7-8e23-9b893bd23096)
 
 
 <ol type='I'>
@@ -70,6 +77,9 @@ Si estás trabajando en varias cosas al mismo tiempo, es probable que no estés 
 ¿Estás revisando tu progreso y ajustando tu enfoque según sea necesario? Es importante medir tus resultados para asegurarte de que estás avanzando en la dirección correcta.
 Recuerda que el enfoque es un proceso continuo. No te preocupes si no lo haces perfecto desde el principio. Lo importante es que estés consciente de tus hábitos y que te esfuerces por mejorar.</li>
 </ol>
+
+
+![decirno](https://github.com/user-attachments/assets/1eefeee9-629b-4006-8123-c10486b4f872)
 
 
  <h1>Multitareas</h1>
