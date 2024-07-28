@@ -1,18 +1,28 @@
  <h1> Éxito y disciplina</h1>
 
 <ol type='A'>
+ 
+![madruga](https://github.com/user-attachments/assets/44ac406e-ff31-4366-93de-9782374b2b1c)
+
 
 <li>La importancia de las creencias y cómo pueden afectar nuestro éxito. Vimos el ejemplo de Marcela, quien creía que no tenía tiempo para hacer ejercicio debido a su trabajo.</li>
+<br>
 <li>También hablamos sobre la disciplina y cómo, aunque es importante, no es la única clave para el éxito. Los autores del libro "Una única cosa" nos dicen que no necesitamos más disciplina de la que ya tenemos, sino que debemos enfocarnos y administrar mejor nuestro tiempo.</li>
+
+![exitosa](https://github.com/user-attachments/assets/08b2042f-34cd-486d-b77e-0202096799a2)
+<br>
 <li>Finalmente, aprendimos sobre la importancia de construir hábitos poderosos y cómo podemos usar la disciplina para desarrollarlos. Se recomienda construir un hábito a la vez y darle tiempo para que se consolide.</li>
 </ol>
 
 <ol type='I'>
 <li>¿Cuáles son tus creencias actuales sobre el éxito y la disciplina?
-
+ 
 ¿Crees que necesitas ser súper disciplinado para tener éxito?
 ¿Crees que el éxito es algo que se logra de forma rápida o gradual?
 ¿Qué te impide alcanzar tus metas? ¿Podrían ser tus creencias?</li>
+
+![mito](https://github.com/user-attachments/assets/8f8888bf-a7fc-44ea-a7a0-1460b7334381)
+
 <li>¿Cómo puedes identificar tus creencias limitantes?
 
 ¿Qué te dices a ti mismo cuando te enfrentas a un desafío?
@@ -39,12 +49,22 @@ Recuerda que el éxito no es una meta final, sino un proceso continuo de aprendi
 
 <h1>Qué hay detrás del Eureka </h1>
 
+![cerebro](https://github.com/user-attachments/assets/f992416a-6ebd-4eb9-9159-d5509a514f52)
+
 <ol type='A'>
 <li>Los dos sistemas mentales que trabajan en nuestro cerebro: el sistema descendente, que es como un ordenador que trabaja constantemente, y el sistema ascendente, que es como un multitarea que analiza todo lo que percibimos.</li>
+
+![cerebro2](https://github.com/user-attachments/assets/40980212-b9bc-4d05-bae0-911d4901e58e)
+
+<br>
 <li>Estos sistemas trabajan juntos para ayudarnos a resolver problemas y tomar decisiones, incluso cuando no nos damos cuenta. ¡Es como un equipo que trabaja en silencio para que nosotros podamos tener ese momento "Eureka"!.</li>
+<br>
 <li>También aprendimos que el cerebro es un poco perezoso y prefiere economizar energía. Por eso, cuando hacemos cosas en modo automático, es porque nuestro cerebro está trabajando de forma eficiente.</li>
+
 <li>Para mantener un alto nivel de energía mental, es importante descansar bien y cuidar de nuestra salud.</li>
 </ol>
+
+![cerebro3](https://github.com/user-attachments/assets/05c01f88-88a9-40a0-89d0-8f1fed4705a0)
 
 <ol type='I'>
 
@@ -53,8 +73,13 @@ Recuerda que el éxito no es una meta final, sino un proceso continuo de aprendi
 ¿En qué momentos te has encontrado con el "momento Eureka"? ¿Cómo te sentiste antes y después de tener la idea? ¿Qué estabas haciendo cuando la idea surgió?
 ¿Hay tareas que realizas en modo automático? ¿Cómo te sientes al realizarlas? ¿Te cuesta más esfuerzo al principio o al final?
 ¿Cómo gestionas tu energía mental? ¿Duermes lo suficiente? ¿Te tomas descansos durante el día? ¿Qué actividades te ayudan a relajarte y a recuperar energía?</li>
-<li>Pon en práctica los conceptos:
 
+ 
+ ![creencias](https://github.com/user-attachments/assets/8724715d-c827-4906-ae91-59d6d3e69909)
+
+
+<li>Pon en práctica los conceptos:
+ 
 Intenta identificar los dos sistemas mentales en acción. Por ejemplo, cuando estás estudiando, ¿puedes notar cómo el sistema descendente procesa la información y el sistema ascendente te ayuda a concentrarte?
 Busca oportunidades para "forzar" el momento Eureka. Si estás atascado en un problema, prueba a cambiar de actividad o a buscar inspiración en otros lugares.
 Experimenta con diferentes estrategias para mejorar tu energía mental. Prueba a hacer ejercicio, a meditar o a practicar técnicas de relajación.</li>
@@ -65,6 +90,8 @@ Busca información adicional sobre el tema. Hay muchos libros y artículos que p
 Recuerda que la clave es la práctica y la observación. Con el tiempo, irás comprendiendo mejor cómo funcionan estos sistemas y cómo puedes aprovecharlos para mejorar tu rendimiento.</li>
 </ol>
 
+![cognitivos](https://github.com/user-attachments/assets/7bf2f020-9cba-4f0e-a741-2e5c64d2abef)
+
 
  <h1>Reflexión y acción focalizada</h1>
 <p> La importancia de enfocarnos en nuestras acciones para mejorar nuestro día a día.
@@ -74,9 +101,13 @@ La clase nos muestra a Marcela, quien se siente agobiada por la cantidad de tare
 <h3>Para ello, nos da algunas recomendaciones:</h3>
 
 <ol type='A'>
-<li>Renueva tus energías: Dormir bien, hacer cosas que te gusten, como viajar o ver películas, son importantes para mantener la energía.</li>
+
+ <li>Renueva tus energías: Dormir bien, hacer cosas que te gusten, como viajar o ver películas, son importantes para mantener la energía.</li>
+<br>
 <li>Organiza tu tiempo: Deshabilita las notificaciones del móvil, evita la dilación y termina las tareas pendientes para sentirte más tranquilo.</li>
+<br>
 <li>Reflexiona sobre tu día: Dedica tiempo a pensar en cómo fue tu día, qué te funcionó y qué puedes mejorar.</li>
+<br>
 <li>Sal del piloto automático: No hagas las cosas de la misma manera solo porque siempre se han hecho así. Busca nuevas formas de hacer las cosas y de mejorar tu vida.</li>
 
 </ol>
