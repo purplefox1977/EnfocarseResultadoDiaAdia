@@ -64,21 +64,32 @@ Recuerda que el enfoque es un proceso continuo. No te preocupes si no lo haces p
 </ol>
 
 
- <h1></h1>
-<p>.</p>
+ <h1>Multitareas</h1>
+<p> la ilusión de ser multitarea y cómo puede afectar nuestra productividad.</p>
 
 <ol type='A'>
-
-<li></li>
-<li></li>
-<li></li>
+<li>La idea principal es que hacer muchas cosas al mismo tiempo no es eficiente ni efectivo. Aunque parezca que estamos haciendo más, en realidad estamos perdiendo tiempo y cometiendo más errores.</li>
+<li>La clase nos muestra el ejemplo de Marcela, quien intenta hacer muchas cosas a la vez y termina cometiendo errores en su trabajo. Esto nos ayuda a entender que el foco es fundamental para lograr resultados.</li>
+<li>También aprendimos sobre la distracción y cómo puede afectar nuestra concentración. Es importante ser conscientes de las distracciones que nos rodean y buscar maneras de evitarlas.</li>
+<li>Al final, la clase nos da algunos consejos para mejorar nuestro foco y evitar la multitarea. Recuerda que nuestro cerebro está diseñado para hacer una cosa a la vez, especialmente cuando se trata de tareas complejas.</li>
 </ol>
-
-
 
 <ol type='I'>
-<li></li>
-<li></li>
-<li></li>
-<li></li>
+<li>Autoevaluación:
+
+Reflexiona sobre tu día a día: ¿Te ves haciendo varias cosas al mismo tiempo? ¿Te distraes fácilmente? ¿Cómo te sientes cuando intentas concentrarte en una sola tarea?
+Identifica las tareas que te cuestan más: ¿Hay alguna tarea en particular que te cuesta más concentrarte? ¿Por qué crees que sucede?
+Analiza tus resultados: ¿Has notado alguna mejora en tu productividad desde que aprendiste sobre el foco? ¿Has cometido menos errores?</li>
+<li>Experimentación:
+
+Prueba técnicas de concentración: Hay muchas técnicas para mejorar el foco, como la técnica Pomodoro, la meditación o el mindfulness. Experimenta con diferentes técnicas y observa cuál te funciona mejor.
+Elimina las distracciones: Intenta crear un ambiente de trabajo libre de distracciones. Apaga las notificaciones del teléfono, cierra las pestañas del navegador que no necesitas y busca un lugar tranquilo para trabajar.
+Prioriza tus tareas: No intentes hacer todo al mismo tiempo. Prioriza las tareas más importantes y enfócate en una a la vez.</li>
+<li>Busca retroalimentación:
+
+Habla con alguien de confianza: Comparte tus experiencias con un amigo, familiar o compañero de trabajo. Pídeles su opinión sobre cómo estás aplicando los conceptos de la clase.
+Busca información adicional: Hay muchos recursos disponibles en línea sobre el foco y la concentración. Lee artículos, mira videos o escucha podcasts para aprender más sobre el tema.
+Recuerda que el proceso de aprendizaje es continuo. No te desanimes si no ves resultados de inmediato. Lo importante es que sigas practicando y buscando maneras de mejorar tu foco. ¡Confío en que lo lograrás!</li>
 </ol>
+
+IMAGEN MULTITAREA
