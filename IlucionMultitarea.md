@@ -67,6 +67,9 @@ Recuerda que el enfoque es un proceso continuo. No te preocupes si no lo haces p
  <h1>Multitareas</h1>
 <p> la ilusión de ser multitarea y cómo puede afectar nuestra productividad.</p>
 
+
+![MULTITAREA](https://github.com/user-attachments/assets/9c2a7aab-bc46-44d7-a3cf-9757bd508e8c)
+
 <ol type='A'>
 <li>La idea principal es que hacer muchas cosas al mismo tiempo no es eficiente ni efectivo. Aunque parezca que estamos haciendo más, en realidad estamos perdiendo tiempo y cometiendo más errores.</li>
 <li>La clase nos muestra el ejemplo de Marcela, quien intenta hacer muchas cosas a la vez y termina cometiendo errores en su trabajo. Esto nos ayuda a entender que el foco es fundamental para lograr resultados.</li>
@@ -92,4 +95,6 @@ Busca información adicional: Hay muchos recursos disponibles en línea sobre el
 Recuerda que el proceso de aprendizaje es continuo. No te desanimes si no ves resultados de inmediato. Lo importante es que sigas practicando y buscando maneras de mejorar tu foco. ¡Confío en que lo lograrás!</li>
 </ol>
 
-img accion
+![ACCION](https://github.com/user-attachments/assets/5f2b84d4-c0be-4299-afda-46ee530719b2)
+
+
