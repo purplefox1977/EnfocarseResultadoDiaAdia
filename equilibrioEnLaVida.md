@@ -8,7 +8,7 @@
 </ol>
 
 
-<ol type='I'>
+<ol>
 
 <li>¿Estoy estableciendo límites claros entre mi trabajo y mi vida personal?
 
@@ -50,7 +50,7 @@
 </ol>
 <p>Recuerda que la felicidad no se encuentra en el futuro, sino en el presente. ¡Es importante disfrutar del camino y no solo del destino!</p>
 
-<ol type='I'>
+<ol >
 
 <li>¿Mis metas son específicas y alcanzables?
 
