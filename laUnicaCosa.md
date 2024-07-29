@@ -1,19 +1,29 @@
 <h1>El hábito del éxito </h1>
 
+![1habitos](https://github.com/user-attachments/assets/67500985-52ba-4ccc-9a88-b1d3e55647cf)
+
 <ol type='A'>
-<li>La importancia de enfocarse en una sola cosa a la vez para lograr resultados más efectivos.</li>
+<li>La importancia de enfocarse en una sola cosa a la vez para lograr resultados más efectivos.</li> 
 <li>La idea principal es que, en lugar de intentar mejorar en muchas áreas al mismo tiempo, es mejor elegir una sola área y concentrar nuestros esfuerzos en ella.</li>
 <li>Para ayudarte a identificar esa área, te enseñé a hacer preguntas de enfoque que te ayudan a reflexionar sobre qué es lo más importante que puedes hacer hoy para que, al hacerlo, el resto se vuelva más fácil o innecesario.</li>
 <li>Te di ejemplos de cómo aplicar este enfoque a diferentes áreas de la vida, como la salud física, las relaciones personales, el trabajo y las finanzas.</li>
 </ol>
 <p>Recuerda que la clave es la confianza y la acción.</p>
 
+![enfoque](https://github.com/user-attachments/assets/310eaa66-bca5-4815-8041-beffa9a7d2ce)
 
 <ol type='I'>
 
 <li>¿Estoy trabajando en una sola área prioritaria? Si estás intentando mejorar en muchas áreas al mismo tiempo, es probable que no estés enfocando tu energía de manera efectiva.</li>
+
+![3](https://github.com/user-attachments/assets/459486b0-c3ab-49a7-973d-0875076ac724)
+
+
 <li>¿Estoy haciendo preguntas de enfoque para identificar la acción principal? Estas preguntas te ayudan a determinar qué es lo más importante que puedes hacer hoy para avanzar en tu área prioritaria.</li>
 <li>¿Estoy tomando acción en base a las respuestas a mis preguntas de enfoque? La acción es crucial para lograr resultados. No basta con pensar en lo que hay que hacer, ¡hay que hacerlo!</li>
+
+![pregunta](https://github.com/user-attachments/assets/36fe09fa-76ae-4333-8474-a2873a09c716)
+
 <li>¿Estoy midiendo los resultados de mis acciones? Esto te ayudará a determinar si tu enfoque está funcionando y si necesitas hacer ajustes.</li>
 </ol>
 <p>Recuerda que el proceso de enfoque es un viaje, no un destino. Es posible que necesites ajustar tu enfoque a medida que avanzas. ¡No te desanimes si no ves resultados inmediatos! Lo importante es que estés aprendiendo y adaptándote.</p>
@@ -40,6 +50,9 @@
 <ol type='A'>
 <h2>También nos dio algunos consejos para mejorar nuestro enfoque, como:</h2>
 
+![5](https://github.com/user-attachments/assets/771e328d-2aaf-482c-a6d4-58e0e11ce99c)
+
+
 <li>Tomar un día a la semana para nosotros mismos, sin teléfono, correo electrónico o trabajo.</li>
 <li>Hacer una lista de éxito antes de dormir, para saber qué queremos lograr al día siguiente.</li>
 <li>Encontrar una manera de mejorar nuestro día, haciendo algo que nos guste y nos motive.</li>
@@ -59,6 +72,7 @@
 </ol>
 <p>Recuerda que el enfoque es un proceso continuo, y que siempre hay espacio para mejorar.</p>
 
+![6](https://github.com/user-attachments/assets/91044c59-54df-4db8-aecf-7dadea84921e)
 
 <h3> Para saber si estás en el camino correcto, puedes preguntarte:</h3>
 <ol >
