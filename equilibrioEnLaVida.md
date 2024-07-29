@@ -70,3 +70,21 @@
 ¿Estoy adaptando mis planes si es necesario?</li>
 </ol>
 <p>Recuerda que la clave está en la autoobservación y la reflexión. ¡No te preocupes si no lo estás haciendo perfecto! Lo importante es que estés consciente de tus acciones y que te esfuerces por mejorar cada día.</p>
+
+<h2>Puntosprincipales de lo visto</h2>
+
+<ol type='I'>
+
+<li>Establecer metas anuales para el desarrollo profesional y personal.
+Programar tus vacaciones.</li>
+<li>Elaborar un plan y comenzar a trabajar duro para lograrlo y hacer los ajustes necesarios.</li>
+<li>La cuestión no es cambiar de opinión todo el tiempo, sino ser honesto contigo mismo.
+</li>
+<li>Siempre que sea posible, olvídate del trabajo los fines de semana.</li>
+<li>Llena tu tiempo libre con actos significativos.</li>
+<li>No descuides tu salud.</li>
+<li>Manténte alejado de personas demasiado negativas y pesimistas.</li>
+<li>Disfruta de tu propia compañía.</li>
+<li>Tómate un tiempo para cultivar tus relaciones.</li>
+<li>Estimula tu capacidad de aprendizaje.</li>
+</ol>
